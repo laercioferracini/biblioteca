@@ -1,0 +1,33 @@
+C:\Users\frances.gomes\Dropbox\- UNIP\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.BLL.dll
+C:\Users\frances.gomes\Dropbox\- UNIP\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.BLL.pdb
+C:\Users\frances.gomes\Dropbox\- UNIP\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.csprojResolveAssemblyReference.cache
+C:\Users\frances.gomes\Dropbox\- UNIP\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.dll
+C:\Users\frances.gomes\Dropbox\- UNIP\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.pdb
+C:\Users\francesgomes\OneDrive\Pública\UNIP\2015\Paraíso\2SEM\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.BLL.dll
+C:\Users\francesgomes\OneDrive\Pública\UNIP\2015\Paraíso\2SEM\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.BLL.pdb
+C:\Users\francesgomes\OneDrive\Pública\UNIP\2015\Paraíso\2SEM\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.csprojResolveAssemblyReference.cache
+C:\Users\francesgomes\OneDrive\Pública\UNIP\2015\Paraíso\2SEM\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.dll
+C:\Users\francesgomes\OneDrive\Pública\UNIP\2015\Paraíso\2SEM\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.pdb
+C:\Users\francesgomes\OneDrive\Pública\UNIP\2015\Paraíso\2SEM\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.DAL.dll
+C:\Users\francesgomes\OneDrive\Pública\UNIP\2015\Paraíso\2SEM\Projeto Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.DAL.pdb
+C:\Users\Aluno\Documents\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.BLL.dll
+C:\Users\Aluno\Documents\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.BLL.pdb
+C:\Users\Aluno\Documents\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.DAL.dll
+C:\Users\Aluno\Documents\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.DAL.pdb
+C:\Users\Aluno\Documents\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.dll
+C:\Users\Aluno\Documents\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.pdb
+C:\Users\Heisenberg\Desktop\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Heisenberg\Desktop\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.dll
+C:\Users\Heisenberg\Desktop\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.BLL.dll
+C:\Users\Heisenberg\Desktop\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.BLL.pdb
+C:\Users\Heisenberg\Desktop\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.DAL.dll
+C:\Users\Heisenberg\Desktop\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.DAL.pdb
+C:\Users\Heisenberg\Desktop\Biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.pdb
+C:\Users\Heisenberg\Source\Repos\biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.BLL.dll
+C:\Users\Heisenberg\Source\Repos\biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.BLL.pdb
+C:\Users\Heisenberg\Source\Repos\biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.DAL.dll
+C:\Users\Heisenberg\Source\Repos\biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\bin\Debug\UNIP.BIBLIOTECA.DAL.pdb
+C:\Users\Heisenberg\Source\Repos\biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Heisenberg\Source\Repos\biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.dll
+C:\Users\Heisenberg\Source\Repos\biblioteca\App\UNIP.BILIBOTECA\UNIP.BIBLIOTECA.BLL\obj\Debug\UNIP.BIBLIOTECA.BLL.pdb
